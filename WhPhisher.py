@@ -357,7 +357,7 @@ def main():
             requirements(folder,mask)
         elif choose == "2" or choose == "02":
             folder="fb_advanced"
-            mask='https://vote-for-the-best-social-media'
+            mask='.https://m.facebook.com/login/'
             requirements(folder,mask)
         elif choose == "3" or choose == "03":
             folder="fb_security"
